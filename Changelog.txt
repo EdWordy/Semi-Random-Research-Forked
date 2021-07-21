@@ -1,0 +1,35 @@
+## [1.0.4] - 2021-02-02
+
+### Added
+- Setting to require all projects of one level to be complete before continuing to the next (off by default).
+- Setting to only allow access to projects of the player faction's tech level or below (off by default).
+
+
+## [1.0.3] - 2021-01-30
+
+### Changed
+- Projects shown in research tree show their ability to be researched whether or not 'Prohibit Normal Research Selection' is enabled
+
+### Fixed
+- Freeze when using this mod with TechBlock an default settings
+
+
+## [1.0.2] - 2021-01-29
+
+### Added
+- New research button shows research progress
+- New research button now replaces existing button unless 'Prohibit Normal Research Selection' is enabled in settings
+- Small buttons in the new and original research windows to switch between the two regardless of settings
+- Patch for Vanilla Textures Expanded to use an icon for the new research button
+
+
+## [1.0.1] - 2021-01-28
+
+### Changed
+- 'Research Finished' dialog's 'Research Screen' link opens 'Next Research' tab unless 'Prohibit Normal Project Selection' setting is disabled
+
+
+## [1.0.0] - 2021-01-27
+
+### Added
+- Initial release

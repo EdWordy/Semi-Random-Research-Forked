@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <CM_Semi_Random_Research_Setting_Feature_Enabled_Label>Prohibit normal project selection</CM_Semi_Random_Research_Setting_Feature_Enabled_Label>
+  <CM_Semi_Random_Research_Setting_Feature_Enabled_Description>If disabled, the player may change research to anything, allowing them to circumvent the main feature when desired.</CM_Semi_Random_Research_Setting_Feature_Enabled_Description>
+
+  <CM_Semi_Random_Research_Setting_Reroll_All_Every_Time_Label>Reroll all choices every time</CM_Semi_Random_Research_Setting_Reroll_All_Every_Time_Label>
+  <CM_Semi_Random_Research_Setting_Reroll_All_Every_Time_Description>If disabled, projects that are not selected will stay in the list until researched.</CM_Semi_Random_Research_Setting_Reroll_All_Every_Time_Description>
+  
+  <CM_Semi_Random_Research_Setting_Show_Research_Button_Label>Show research button</CM_Semi_Random_Research_Setting_Show_Research_Button_Label>
+  <CM_Semi_Random_Research_Setting_Show_Research_Button_Description>If disabled, the vanilla research button will be hidden.</CM_Semi_Random_Research_Setting_Show_Research_Button_Description>
+  
+  <CM_Semi_Random_Research_Setting_Manual_Reroll_Label>Allow manual rerolls</CM_Semi_Random_Research_Setting_Manual_Reroll_Label>
+  
+  <CM_Semi_Random_Research_Setting_No_Manual_Reroll_Label>Never</CM_Semi_Random_Research_Setting_No_Manual_Reroll_Label>
+  <CM_Semi_Random_Research_Setting_No_Manual_Reroll_Description>If selected, the player cannot manually force a reroll of the available options.</CM_Semi_Random_Research_Setting_No_Manual_Reroll_Description>
+  
+  <CM_Semi_Random_Research_Setting_Reroll_One_Time_Label>Once</CM_Semi_Random_Research_Setting_Reroll_One_Time_Label>
+  <CM_Semi_Random_Research_Setting_Reroll_One_Time_Description>If selected, the player can force a reroll of the available projects once. A new reroll is then gained every time a project is completed.</CM_Semi_Random_Research_Setting_Reroll_One_Time_Description>
+  
+  <CM_Semi_Random_Research_Setting_Reroll_Any_Time_Label>Always</CM_Semi_Random_Research_Setting_Reroll_Any_Time_Label>
+  <CM_Semi_Random_Research_Setting_Reroll_Any_Time_Description>If selected, the player can force a reroll of the available projects any time they desire.</CM_Semi_Random_Research_Setting_Reroll_Any_Time_Description>
+  
+  <CM_Semi_Random_Research_Setting_Available_Projects_Count_Label>Available project count</CM_Semi_Random_Research_Setting_Available_Projects_Count_Label>
+  <CM_Semi_Random_Research_Setting_Available_Projects_Count_Description>Determines the number of available research projects the player may select from</CM_Semi_Random_Research_Setting_Available_Projects_Count_Description>
+  
+  <CM_Semi_Random_Research_Setting_Force_Lowest_Tech_Level_Label>Complete lowest tech level first </CM_Semi_Random_Research_Setting_Force_Lowest_Tech_Level_Label>
+  <CM_Semi_Random_Research_Setting_Force_Lowest_Tech_Level_Description>If selected, all projects will be from the lowest tech level available, forcing it to be complete before projects from the next level become available.</CM_Semi_Random_Research_Setting_Force_Lowest_Tech_Level_Description>
+  
+  <CM_Semi_Random_Research_Setting_Restrict_To_Faction_Tech_Level_Label>Restrict to faction tech level</CM_Semi_Random_Research_Setting_Restrict_To_Faction_Tech_Level_Label>
+  <CM_Semi_Random_Research_Setting_Restrict_To_Faction_Tech_Level_Description>If selected, only options at or below the player faction's tech level will be offered.</CM_Semi_Random_Research_Setting_Restrict_To_Faction_Tech_Level_Description>
+
+  <CM_Semi_Random_Research_Available_Projects>Available Projects</CM_Semi_Random_Research_Available_Projects>
+
+  <CM_Semi_Random_Research_Auto_Research_Label>Select research automatically</CM_Semi_Random_Research_Auto_Research_Label>
+  
+  <CM_Semi_Random_Research_Reroll_Label>Reroll</CM_Semi_Random_Research_Reroll_Label>
+  
+  <CM_Semi_Random_Unlocks_Research>Unlocks research: </CM_Semi_Random_Unlocks_Research>
+</LanguageData>
