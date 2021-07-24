@@ -9,4 +9,4 @@ The options appear in the "Next Research" tab, near the original "Research" tab.
 
 ---
 
-Thanks to Paraconsista and mod-dev for their help in diagnosing the issue.
+Thanks to Paraconsista and mod-dev for their help.
